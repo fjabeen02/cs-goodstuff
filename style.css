@@ -8,3 +8,9 @@ div {
   height: 90%;
   object-position: 70% 15%;
 }
+
+@media (max-width: 575.98px) { 
+	.col-sm{
+		display:block;
+	}
+}
