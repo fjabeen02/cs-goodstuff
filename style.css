@@ -2,9 +2,9 @@ div {
   margin: 20px;
 }
 
-.galleryimg{
-	object-fit: cover;
-	width:90%; 
-	height:90%;
-	object-position: 70% 15%;
+.galleryimg {
+  object-fit: cover;
+  width: 90%;
+  height: 90%;
+  object-position: 70% 15%;
 }
